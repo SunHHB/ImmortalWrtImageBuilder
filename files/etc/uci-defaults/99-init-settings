@@ -1,0 +1,19 @@
+#!/bin/bash
+#=================================================
+# File name: init-settings.sh
+# Description: This script will be executed during the first boot
+#=================================================
+# Set default LAN_IP AND themes
+# sed -i 's/192.168.1.1/192.168.5.1/' /etc/config/network
+uci batch << EOF
+set network.lan.ipaddr='192.168.5.1'
+set luci.main.mediaurlbase='/luci-static/argon'
+commit
+EOF
+
+# Disable IPV6 ula prefix
+# sed -i 's/^[^#].*option ula/#&/' /etc/config/network
+
+# Set default shell
+which zsh && sed -i -- 's:/bin/bash:'`which zsh`':g' /etc/passwd
+exit 0
