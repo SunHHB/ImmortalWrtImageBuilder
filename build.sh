@@ -51,9 +51,6 @@ PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 # Docker 组件
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 
-# VPN 类
-# IPSec VPN
-PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
 
 
 # XUNLEI组件
