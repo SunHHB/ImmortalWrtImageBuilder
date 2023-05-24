@@ -56,8 +56,8 @@ PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
 
 
-# 网络组件
-
+# XUNLEI组件
+PACKAGES="$PACKAGES luci-i18n-xunlei-zh-cn"
 
 # 宽带监控 Nlbwmon
 PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
