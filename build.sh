@@ -49,7 +49,7 @@ PACKAGES="$PACKAGES luci-i18n-hd-idle-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
 # Docker 组件
-PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+PACKAGES="$PACKAGES luci-lib-docker luci-i18n-dockerman-zh-cn"
 
 
 
