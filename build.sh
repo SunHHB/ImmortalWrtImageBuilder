@@ -12,7 +12,7 @@ PACKAGES=""
 PACKAGES="$PACKAGES luci-theme-argon luci-i18n-argon-config-zh-cn luci-theme-design"
 
 # 常用kmod组件
-PACKAGES="$PACKAGES git cfdisk"
+PACKAGES="$PACKAGES git bash cfdisk"
 PACKAGES="$PACKAGES usb-modeswitch kmod-usb2 kmod-usb3 kmod-usb-ohci kmod-usb-ehci"
 
 
@@ -54,7 +54,7 @@ PACKAGES="$PACKAGES libc6-compat luci-lib-docker luci-i18n-dockerman-zh-cn"
 
 
 # XUNLEI组件
-PACKAGES="$PACKAGES nas-xunlei luci-app-xunlei luci-i18n-xunlei-zh-cn"
+PACKAGES="$PACKAGES libc6-compat nas-xunlei luci-app-xunlei luci-i18n-xunlei-zh-cn"
 
 # 宽带监控 Nlbwmon
 PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
