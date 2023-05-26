@@ -1,5 +1,9 @@
 https://github.com/gngpp/luci-theme-design/releases/download/v6.0-20230224-dev/luci-theme-design_6.0-20230224_all.ipk
 https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.3/luci-theme-argon_2.3_all.ipk
+https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/libc6-compat_2.34-1_x86_64.ipk
+https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/luci-app-xunlei_1.0.1_all.ipk
+https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/luci-i18n-xunlei-zh-cn_git-23.144.78649-eaa5062_all.ipk
+https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/nas-xunlei_3.7.1-6_x86_64.ipk
 https://github.com/brvphoenix/wrtbwmon/releases/download/v1.2.1-3/wrtbwmon_1.2.1-3_all.ipk
 https://github.com/brvphoenix/luci-app-wrtbwmon/releases/download/release-2.0.12/luci-app-wrtbwmon_2.0.12_all.ipk
 https://github.com/brvphoenix/luci-app-wrtbwmon/releases/download/release-2.0.12/luci-i18n-wrtbwmon-zh-cn_230430.17615_all.ipk
