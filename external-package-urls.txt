@@ -1,4 +1,5 @@
 https://github.com/gngpp/luci-theme-design/releases/download/v6.0-20230224-dev/luci-theme-design_6.0-20230224_all.ipk
+https://github.com/lisaac/luci-app-dockerman/releases/download/v0.5.19/luci-lib-docker_v0.3.4_all.ipk
 https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.3/luci-theme-argon_2.3_all.ipk
 https://github.com/gngpp/xunlei/releases/download/v3.8.0-18/luci-app-xunlei_1.0.1-7-1_all.ipk
 https://github.com/gngpp/xunlei/releases/download/v3.8.0-18/luci-i18n-xunlei-zh-cn_1.0.1-7-1_all.ipk
