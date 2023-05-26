@@ -49,12 +49,12 @@ PACKAGES="$PACKAGES luci-i18n-hd-idle-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
 # Docker 组件
-PACKAGES="$PACKAGES luci-lib-docker luci-i18n-dockerman-zh-cn"
+PACKAGES="$PACKAGES libc6-compat luci-lib-docker luci-i18n-dockerman-zh-cn"
 
 
 
 # XUNLEI组件
-PACKAGES="$PACKAGES luci-app-xunlei luci-i18n-xunlei-zh-cn"
+PACKAGES="$PACKAGES nas-xunlei luci-app-xunlei luci-i18n-xunlei-zh-cn"
 
 # 宽带监控 Nlbwmon
 PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
