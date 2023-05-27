@@ -13,7 +13,7 @@ PACKAGES="$PACKAGES luci-theme-argon luci-i18n-argon-config-zh-cn luci-theme-des
 
 # 常用kmod组件
 PACKAGES="$PACKAGES git bash cfdisk"
-PACKAGES="$PACKAGES usb-modeswitch kmod-usb2 kmod-usb3 kmod-usb-ohci kmod-usb-ehci"
+PACKAGES="$PACKAGES usb-modeswitch kmod-usb2 kmod-usb3 kmod-usb-ohci kmod-usb-ehci kmod-sdhci"
 
 
 # Diskman 磁盘管理
