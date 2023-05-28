@@ -1,27 +1,23 @@
-# MyWrtBuilder
+# immortalwortImageBuilder
 使用 OpenWrt ImageBuilder 快速构建可定制化的 OpenWrt 固件。
 
-固件来源：[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)，选择官方 ImmortalWrt 提供的 Image Builder 构建属于自己的固件。
+固件来源：[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)，选择官方 ImmortalWrt 最新正式版 Image Builder 构建属于自己的固件。
 
-### 本项目特点
+### 本固件特点
 
-* 使用 ImageBuilder 构建固件，省时省力。
-* 内置了(我自己)日常会用到的 Luci 软件包，更换了 Argon 主题,添加design主题，几乎开箱即用。
+* 使用 ImageBuilder 构建固件，一般只需要几分钟。
+* 添加 Argon 主题(默认),添加design主题。
 * 内置了最新版本的 Clash 内核，无需自己下载。
-* 内置开箱即用的 Docker 组件（需要修改docker存储配置的路径），无需复杂的配置。
-* 只需简单修改 build.sh 即可二次构建属于你自己的固件，方便定制。
-
-
-### 固件详情
-
-固件上游：ImmortalWrt 21.02.6稳定版分支
-
-默认IP:192.168.5.1
+* 内置开箱即用的 Dockerman 组件（需要修改docker存储配置的路径，不能使用默认的opt/docker文件目录，建议新建空余空间挂载mnt/sda3使用）。
+* 只需简单修改 build.sh ，定制需要的包名称，即可二次构建属于你自己的固件，方便定制。
+* 集成了nas用迅雷版本，其他非官方包，注意需要添加非官方保护的依赖和编译兼容21.02版本的ipk文件。
+* 默认IP:192.168.5.1 密码空
 
 
 
 
 ### 鸣谢
+[Revincx](https://github.com/Revincx/)
 
 [OpenWrt](https://github.com/openwrt/openwrt/)
 
