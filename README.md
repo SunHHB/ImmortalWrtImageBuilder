@@ -5,7 +5,7 @@
 
 ### 本固件特点
 
-* 使用 ImageBuilder 构建固件，一般只需要几分钟，稳定省时。
+* 使用 ImageBuilder 构建固件，一般只需要十几分钟，稳定省时。
 * 添加 Argon 主题(默认),添加design主题。
 * 内置了最新版本的 Clash 内核，无需自己下载。
 * 内置开箱即用的 Dockerman 组件（需要修改docker存储配置的路径，不能使用默认的opt/docker文件目录，建议新建空余空间挂载mnt/sda3使用）。
