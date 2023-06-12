@@ -37,7 +37,7 @@ PACKAGES="$PACKAGES luci-i18n-ramfree-zh-cn"
 
 
 # OpenClash 代理
-PACKAGES="$PACKAGES luci-app-openclash"
+# PACKAGES="$PACKAGES luci-app-openclash"
 # Passwall 代理 luci-i18n-passwall-zh-cn
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 
