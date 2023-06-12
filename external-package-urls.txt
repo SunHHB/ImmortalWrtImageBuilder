@@ -8,3 +8,5 @@ https://github.com/brvphoenix/wrtbwmon/releases/download/v1.2.1-3/wrtbwmon_1.2.1
 https://github.com/brvphoenix/luci-app-wrtbwmon/releases/download/release-2.0.12/luci-app-wrtbwmon_2.0.12_all.ipk
 https://github.com/brvphoenix/luci-app-wrtbwmon/releases/download/release-2.0.12/luci-i18n-wrtbwmon-zh-cn_230430.17615_all.ipk
 https://github.com/vernesong/OpenClash/releases/download/v0.45.121-beta/luci-app-openclash_0.45.121-beta_all.ipk
+https://github.com/xiaorouji/openwrt-passwall/releases/download/4.66-8/luci-app-passwall_4.66-8_all.ipk
+https://github.com/xiaorouji/openwrt-passwall/releases/download/4.66-8/luci-i18n-passwall-zh-cn_4.66-8_all.ipk
