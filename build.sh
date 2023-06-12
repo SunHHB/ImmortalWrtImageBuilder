@@ -39,7 +39,7 @@ PACKAGES="$PACKAGES luci-i18n-ramfree-zh-cn"
 # OpenClash 代理
 # PACKAGES="$PACKAGES luci-app-openclash"
 # Passwall 代理 luci-i18n-passwall-zh-cn
-PACKAGES="$PACKAGES trojan-go xray-core xray-plugin luci-i18n-passwall-zh-cn"
+PACKAGES="$PACKAGES brook chinadns-ng dns2socks dns2tcp hysteria microsocks simple-obfs tcping trojan-go trojan-plus xray-core v2ray-geoip v2ray-geosite xray-plugin luci-i18n-passwall-zh-cn"
 
 # 常用的网络存储组件
 # 文件助手
