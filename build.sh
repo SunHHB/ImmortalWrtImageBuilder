@@ -39,7 +39,7 @@ PACKAGES="$PACKAGES luci-i18n-ramfree-zh-cn"
 # OpenClash 代理
 # PACKAGES="$PACKAGES luci-app-openclash"
 # Passwall 代理 luci-i18n-passwall-zh-cn
-PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
+PACKAGES="$PACKAGES trojan-go xray-core xray-plugin luci-i18n-passwall-zh-cn"
 
 # 常用的网络存储组件
 # 文件助手
