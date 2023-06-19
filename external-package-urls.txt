@@ -23,3 +23,4 @@ https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/xray-core_1.8.1
 https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/xray-plugin_1.8.1-1_x86_64.ipk
 https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/v2ray-geoip_202302090046-1_all.ipk
 https://github.com/SunHHB/ImmortalWrtImageBuilder/raw/main/packs/v2ray-geosite_20230208103804-1_all.ipk
+https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.3.1/luci-theme-argon_2.3.1_all.ipk
